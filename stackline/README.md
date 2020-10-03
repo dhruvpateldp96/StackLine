@@ -1,3 +1,35 @@
+# Stackline Assessment Challenge
+
+Stackline GitHub repository: https://github.com/dhruvpateldp96/StackLine.git
+
+Live web page: https://dhruvpateldp96.github.io/StackLine/
+
+By [Dhruv Himanshu Patel](mailto:dpatel49@asu.edu)
+
+<https://github.com/dhruvpateldp96>
+
+## Installation Instructions
+
+Follow these instructions to get a development environment up and running.
+
+Clone the repository
+
+```
+git clone https://github.com/dhruvpateldp96/StackLine.git
+```
+
+Install dependencies
+
+```
+# cd into root directory
+npm install
+```
+
+Run the app in development mode
+
+```
+npm start
+```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
