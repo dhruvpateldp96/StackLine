@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Home.css"
-import {Header,Sider,Main} from "../../components"
+import {Header,Main} from "../../components"
+import { ProductContainer } from "../../containers"
 
 function Home() {
     return (
@@ -8,11 +9,10 @@ function Home() {
             <Header/>
 
             <div className="body">
-                <Sider/>
-                <Main/>  
+                <ProductContainer/>
+                <Main/>
             </div>
-            
-
+ 
         </div>
     )
 }

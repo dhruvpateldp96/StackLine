@@ -4,5 +4,6 @@ import {Header} from "./Header";
 import {Main} from "./Main";
 import {Content} from "./Content"
 import {Footer} from "./Footer"
+import {Table} from './Table'
 
-export {Home, Sider, Header, Main, Content, Footer};
+export {Home, Sider, Header, Main, Content, Footer, Table};

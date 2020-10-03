@@ -1,12 +1,12 @@
 import React from 'react'
 import "./Main.css"
-import {Content,Footer} from "../../components"
+import { Chart, TableContainer } from "../../containers"
 
 function Main() {
     return (
         <div className="main">
-            <Content/>
-            <Footer/>
+            <Chart/>
+            <TableContainer/>
         </div>
                 
     )
